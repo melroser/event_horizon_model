@@ -4,8 +4,7 @@
 
 # Modeling of an Event Horizon Formation
 ## A Computational Method for the Modeling of an Event Horizon Formation:
-### Thomas O. Melrose
-### thomas.o.melrose@gmail.com
+### by Thomas O. Melrose
 ### (Dated: 13 July 2021)
 
 This work demonstrates that mass falling into a black hole can never penetrate the event horizon as measured/observed from a coordinate space, due to the increasing space/time distortion while approaching the event horizon. The formation of a black hole can be simulated using masses without any volume and the distortion in space/time can be calculated at any point using the following algorithm:
